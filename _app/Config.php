@@ -1,6 +1,6 @@
 <?php
     // CONFIGRAÇÕES DO BANCO ####################
-    define('HOST', 'localhost');
+    define('HOST', '');
     define('USER', '');
     define('PASS', '');
     define('DBSA', '');

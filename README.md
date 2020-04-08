@@ -14,6 +14,6 @@
 
 - [Renato R.Machado](https://github.com/renatoribeiromachado) (Developer)
 
-## License
+## License 
 
 The MIT License (MIT). Please see [License File](https://github.com/renatoribeiromachado/Login-PDO/blob/master/LICENSE) for more information.

@@ -1,14 +1,14 @@
 # About Login PDO
 
-###### O LoginPDO é um simples sistema para estudo utilizando a classe nativa do PHP (PDO), com ele você pode se logar utilizando base de dados mysql, ele utiliza sessão para pegar os dados do usuário, contém um menu vertical (sidebar) e utiliza autoload para as Classes
+###### LoginPDO is a simple system for studying using the native PHP class (PDO), with it you can login using mysql database, it uses session to get user data, contains a vertical menu (sidebar) and uses autoload for Classes
 
 ## Installation
 
-###### Basta fazer download dos arquivos e configurar a conexao no arquivo conexao.php
+###### Just download the files and configure the connection in the conexao.php file
 
 ## Support
 
-###### Security:  Se você descobrir algum problema relacionado à segurança, envie um email para renato@acessohost.com.br 
+###### Security:  SIf you discover any problems related to security, send an email to renato@acessohost.com.br
 
 ## Credits
 

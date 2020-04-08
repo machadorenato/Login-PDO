@@ -5,7 +5,7 @@
 ## Installation
 
 ###### Just download the files and configure the connection in the conexao.php file
- - [veja funcionando](https://www.acessohost.com.br/loginPDO/admin/) (sistema)
+ - [see it working](https://www.acessohost.com.br/loginPDO/admin/) (sistema)
 user: admin
 password: admin
 

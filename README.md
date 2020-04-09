@@ -11,7 +11,7 @@ password: admin
 
 ## Support
 
-###### Security:  SIf you discover any problems related to security, send an email to renato@acessohost.com.br
+###### Security:  If you discover any problems related to security, send an email to renato@acessohost.com.br
 
 ## Credits
 
